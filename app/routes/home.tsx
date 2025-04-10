@@ -10,6 +10,9 @@ export function meta({}: Route.MetaArgs) {
 
 export default function Home() {
   return (
-    <h1> hola  </h1>
+    <div>
+    <h1 className="text-4xl"> HOLA :)</h1>
+    <h2> esto es un subtitulo  </h2>
+    </div>
   )
 }
