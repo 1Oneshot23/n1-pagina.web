@@ -15,6 +15,10 @@ const AboutPage = () => {
             Our team of gaming enthusiasts carefully reviews and compares different 
             gaming laptops to provide you with accurate and helpful recommendations.
           </p>
+          <p className="text-gray-600 mt-4">
+          Founded in 2025, our mission is to simplify the laptop selection process 
+          for gamers of all levels - from casual players to professional esports competitors.
+          </p>
         </div>
       </div>
     </div>
